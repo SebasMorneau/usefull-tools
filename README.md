@@ -3,6 +3,7 @@
 ## Resources
 
 - [Dev Resources](https://devresourc.es/) - The best option to start with
+- [Brad's List](https://github.com/bradtraversy/design-resources-for-developers#ui-graphics) - List of resources curated by Traversy Media
 
 ## Web Server
 
@@ -13,7 +14,17 @@
 
 ## Web Design
 
-- [Canva](https://www.canva.com/) - Some few ideas for design of website, logo, etc
+- [Canva](https://www.canva.com/) - Some few ideas for design of website, logo, etc3
+
+## AWS
+
+- [Custom email](https://medium.com/craftsmenltd/customizing-aws-cognito-verification-emails-with-html-using-aws-lambda-379b584d2112) - Customizing Cognito verification emails with HTML using AWS Lambda
+
+## Web Scraping
+
+- [Scrapy](https://doc.scrapy.org/en/1.0/topics/spiders.html#spider) - Spiders
+- [Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/) - Web Scraping with Scrapy and MongoDB
+- [Xpath](https://devhints.io/xpath) - Xpath cheatsheet
 
 ## Image
 
@@ -43,10 +54,6 @@
 ## Excel
 
 - [Drop Down List](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Making a dependent (cascading) Excel drop down list
-
-## Author
-
-- **Sebastien Morneau** - _Initial work_ - [Website](https://sebastienmorneau.com)
 
 ### For future projects
 
