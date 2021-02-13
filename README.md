@@ -1,16 +1,17 @@
-# List of programming tools
+# List Of Development Tools
 
-## For Hosting
+## Web Server
 
 - [My SQL on Digital Oceans](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-14-) - How To Install MySQL on Ubuntu 14.04
-- [Maven](https://maven.apache.org/) - Dependency Management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [My SQL on Digital Oceans - Latest](https://www.digitalocean.com/community/tutorials/how-to-install-the-latest-mysql-on-ubuntu-16-04) - How To Install the Lates MySQL on Ubuntu 16.04
+- [Server setup on Digital Oceans](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04) - Initial Server Setup with Ubuntu 18.04
+- [Let's encrypt on Digital Oceans](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-14-04) - How To Secure Apache with Let's Encrypt on Ubuntu 14.04
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Image
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+- [Pixabay](https://pixabay.com/) - Free royalty images
+- [CSS Fonts Stack](https://www.cssfontstack.com/) - Fonts
+- [CSS Fonts Stack](https://www.cssfontstack.com/) - Fonts
 
 ## Authors
 
@@ -22,8 +23,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### For future projects
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Server Check](https://servercheck.objectif8.com/) - Server check, scripts, email notifications
